@@ -5,4 +5,4 @@
 
 const time = ['petter', 'mariah']
   // indeices   0   1
-  console.log(time{1})
+  console.log(time[1])
